@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Content>
+	<Update>
+		<UpdateType>All-download-OTA</UpdateType>
+		<UpdateInfo>
+			<newversion>TAG_AD500A_5110_V1222.1.0_190514en</newversion>
+			<downloadurl>http://120.55.243.205:8000/amy-server/sys-update/update.zip</downloadurl>
+			<filesize>380329190</filesize>
+			<md5>8ea62de22653fd20b53a9a612dfa4876</md5>
+			<updatemessage>
+				<msg>1.***</msg>
+				<msg>2.***</msg>
+			</updatemessage>
+		</UpdateInfo>
+	</Update>
+</Content>
